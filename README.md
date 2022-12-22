@@ -26,5 +26,5 @@ npm start
 - add reducers and selectors unit tests
 
 * * *
-author: Kris Urbas [@krzysu](https://twitter.com/krzysu)   
+author: Amit K [kumaramit124@gmail.com)   
 licence: MIT
